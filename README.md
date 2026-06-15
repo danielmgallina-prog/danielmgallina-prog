@@ -46,5 +46,5 @@
 ##
 
 <div align="center">
-  ![snake animation](https://github.com/<danielmgallina-prog>/<danielmgallina-prog>/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://raw.githubusercontent.com/danielmgallina-prog/danielmgallina-prog/output/snake-dark.svg" alt="snake animation" />
 </div>
