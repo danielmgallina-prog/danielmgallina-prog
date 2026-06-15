@@ -2,8 +2,6 @@
 
 - 🧑‍💼 I’m currently working on Hotel Metropole Maringá
 - 📚 I’m currently learning software engineering | Unicesumar
-- 📫 How to reach me: danielmgallina@gmail.com 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i like making cool design projects
 ## 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,40 +45,6 @@
 
 ##
 
-name: generate snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danielmgallina-prog/danielmgallina-prog/output/snake-dark.svg" alt="snake animation" />
+</div>
