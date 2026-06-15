@@ -1,16 +1,25 @@
-## Hi there 👋
+## Yo!!! Im danielmgallina! 👋
 
-<!--
-**danielmgallina-prog/danielmgallina-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💼 I’m currently working on Hotel Metropole Maringá
+- 📚 I’m currently learning software engineering | Unicesumar
+- 📫 How to reach me: danielmgallina@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like making cool design projects
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=danielmgallina-prog&theme=dark" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="all" />
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmgallina-prog&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+
+
+
+
+
+
+
