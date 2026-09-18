@@ -225,7 +225,9 @@ software engineering and continuous learning.
 
 <div align="center">
 
-<h2>🎯 Current Focus</h2>
+<div align="center">
+
+## 🎯 Current Focus
 
 </div>
 
@@ -234,7 +236,17 @@ SOFTWARE DEVELOPMENT  ███████████████████�
 INFRASTRUCTURE        ████████████████████████████████
 AUTOMATION            ████████████████████████████
 DATABASES             ██████████████████████████
-<br> <!-- SYSTEM --> <div align="center"> <h2>🖥️ System Status</h2> </div>
+```
+
+<br>
+
+<div align="center">
+
+## 🖥️ System Status
+
+</div>
+
+```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
 │  DANIEL@GITHUB                                       │
@@ -246,23 +258,34 @@ DATABASES             ███████████████████�
 │  MODE         BUILDING_                              │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-<br> <!-- CONNECT --> <div align="center"> <h2>🌐 Connect With Me</h2> <a href="https://github.com/danielmgallina-prog"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=1294F3" alt="GitHub" /> </a>
+```
 
- 
-
-<img src="https://img.shields.io/badge/LinkedIn-1294F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
- 
-
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=1294F3" alt="Email" />
-
-<br><br><br>
-
-<!-- FOOTER -->
-< CODE • BUILD • LEARN • REPEAT />
-SYSTEM STATUS: ONLINE █
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=1294F3&section=footer" width="100%" />
+<div align="center">
 
-</div> ```
+## 🌐 Connect With Me
+
+<a href="https://github.com/danielmgallina-prog">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=1294F3" alt="GitHub">
+</a>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/LinkedIn-1294F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=1294F3" alt="Email">
+
+<br><br>
+
+### `< CODE • BUILD • LEARN • REPEAT />`
+
+`SYSTEM STATUS: ONLINE █`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=1294F3&section=footer" width="100%" alt="Footer">
+
+</div>
