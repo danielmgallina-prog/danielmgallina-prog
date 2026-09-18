@@ -46,5 +46,32 @@ Status   : Building_
 </p>
 
 </div>
+<br>
 
+<div align="center">
+
+<h2>📊 GitHub Analytics</h2>
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmgallina-prog&theme=github_dark" />
+
+<br>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielmgallina-prog&theme=github_dark" />
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielmgallina-prog&theme=github_dark" />
+
+<br>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmgallina-prog&theme=github_dark" />
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielmgallina-prog&theme=github_dark&utcOffset=-3" />
+
+</div>
+
+<br>
 <br>
