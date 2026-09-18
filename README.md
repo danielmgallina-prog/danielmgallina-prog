@@ -1,50 +1,147 @@
-## Yo!!! Im danielmgallina! 👋
-
-- 🧑‍💼 I’m currently working on Hotel Metropole Maringá
-- 📚 I’m currently learning software engineering | Unicesumar
-- ⚡ Fun fact: i like making cool design projects
-## 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=danielmgallina-prog&theme=dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmgallina-prog&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-
-<br clear="all" />
-
-<br>
-
-<div align="left">
-  <img alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img alt="FileZilla" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg">
-  <img alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img alt="Veeam" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/veeam.svg">
-</div>
-
-##
-
-<div align="left">
-  <a href="https://instagram.com/odanielgallina" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.com/users/mgr1104" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:danielmgallina@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-muniz-gallina-61b34b415/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <img align="right" src="giphy.gif" alt="gif" height="150" />
-</div>
-
-##
+<!-- ========================================================= -->
+<!--                    DANIEL GALLINA                          -->
+<!--                  GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danielmgallina-prog/danielmgallina-prog/output/snake-dark.svg" alt="snake animation" />
+
+# DANIEL GALLINA
+
+### `SOFTWARE DEVELOPMENT • INFRASTRUCTURE • TECHNOLOGY`
+
+```text
+> INITIALIZING PROFILE...
+> LOADING STACK............... OK
+> LOADING PROJECTS............ OK
+> CONNECTING GITHUB........... OK
+
+SYSTEM READY █
 </div>
+> WHOAMI
+daniel@gallina:~$ whoami
+
+Name      : Daniel Gallina
+Area      : Technology
+Focus     : Software Development & Infrastructure
+Location  : Brazil
+Status    : Building_
+
+I'm passionate about technology, software development and IT infrastructure.
+
+I enjoy understanding how things work, solving real-world problems and transforming ideas into functional systems.
+
+My interests range from software development and databases to servers, networking, automation and infrastructure.
+
+> Think.
+> Build.
+> Test.
+> Improve.
+> Repeat.
+> ./TECH_STACK
+<div align="center">
+LANGUAGES
+<img src="https://skillicons.dev/icons?i=c,js,ts,html,css" />
+DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=nodejs,react,vite,npm" />
+DATABASES
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=docker,linux,windows,ubuntu" />
+TOOLS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </div>
+> ./CURRENT_FOCUS
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  SOFTWARE DEVELOPMENT                                │
+│  ████████████████████████████████████                │
+│                                                      │
+│  INFRASTRUCTURE                                      │
+│  ████████████████████████████                        │
+│                                                      │
+│  AUTOMATION                                          │
+│  ████████████████████████                            │
+│                                                      │
+│  DATABASES                                           │
+│  ██████████████████████████                          │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+> ./FEATURED_PROJECTS
+01 ─────────────────────────────────────────────────────
+
+   PROJECT_01
+
+   > Project description goes here.
+
+   STACK
+   Node.js • React • PostgreSQL • Docker
+
+   STATUS
+   ● ACTIVE
+
+
+02 ─────────────────────────────────────────────────────
+
+   PROJECT_02
+
+   > Project description goes here.
+
+   STACK
+   JavaScript • Node.js • API
+
+   STATUS
+   ● DEVELOPMENT
+
+
+03 ─────────────────────────────────────────────────────
+
+   PROJECT_03
+
+   > Project description goes here.
+
+   STACK
+   C • Software Development
+
+   STATUS
+   ● LEARNING
+
+─────────────────────────────────────────────────────────
+> ./GITHUB_STATS
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danielmgallina-prog&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1294F3&icon_color=1294F3&text_color=FFFFFF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmgallina-prog&layout=compact&hide_border=true&bg_color=0D1117&title_color=1294F3&text_color=FFFFFF" />
+
+</div>
+> ./ACTIVITY
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danielmgallina-prog&bg_color=0D1117&color=1294F3&line=1294F3&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+> ./CONTRIBUTIONS
+<div align="center">
+
+</div>
+> ./SYSTEM_INFO
+╭──────────────────────────────────────────────╮
+│                                              │
+│  DANIEL@GITHUB                               │
+│                                              │
+│  STATUS       ● ONLINE                       │
+│  ROLE         TECHNOLOGY                     │
+│  INTEREST     SOFTWARE + INFRASTRUCTURE      │
+│  OS           WINDOWS / LINUX                │
+│  MODE         BUILDING_                      │
+│                                              │
+╰──────────────────────────────────────────────╯
+> ./CONNECT
+<div align="center">
+
+</div>
+<div align="center">
+< CODE • BUILD • LEARN • REPEAT />
+
+SYSTEM STATUS: ONLINE
+
+</div> ```
