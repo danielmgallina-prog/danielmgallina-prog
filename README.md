@@ -1,106 +1,167 @@
-<!-- ========================================================= -->
-<!--                    DANIEL GALLINA                          -->
-<!--                  GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
+<!-- ==========================================================
+                        DANIEL GALLINA
+                     GITHUB PROFILE README
+=========================================================== -->
 
 <div align="center">
 
 <img src="./assets/banner.png" width="100%" alt="Daniel Gallina Banner">
 
+<br>
+
+<h3>SOFTWARE DEVELOPMENT • INFRASTRUCTURE • TECHNOLOGY</h3>
+
+<code>Building systems. Solving problems. Learning continuously.</code>
+
 <br><br>
 
-<!-- ======================== ABOUT ME ======================== -->
+<!-- ==========================================================
+                         ABOUT ME
+=========================================================== -->
+
+<h2>👨‍💻 About Me</h2>
 
 <table>
 <tr>
 
-<td width="62%" valign="top">
+<td width="60%" valign="middle">
 
-<h2>👨‍💻 About Me</h2>
-
-<pre>
-daniel@gallina:~$ whoami
-
-Name     : Daniel Gallina
-Focus    : Software Development
-           & Infrastructure
-Location : Brazil
-Status   : Building_
-</pre>
+<h3>Hi, I'm Daniel Gallina.</h3>
 
 <p>
-I'm passionate about <b>technology, software development and IT infrastructure</b>.
+I'm passionate about <b>software development, infrastructure
+and technology</b>.
 </p>
 
 <p>
-I enjoy building applications, working with infrastructure,
-automating processes and transforming real-world problems
-into technological solutions.
+I enjoy transforming real-world problems into functional
+solutions through software, automation and infrastructure.
 </p>
 
-<pre>
-> Think.
-> Build.
-> Test.
-> Improve.
-> Repeat.
-</pre>
+<p>
+My interests include backend development, databases,
+Linux environments, containers, networking and systems
+integration.
+</p>
+
+<br>
+
+<code>daniel@gallina:~$ whoami</code>
+
+<br><br>
+
+<b>Focus:</b> Software Development & Infrastructure
+
+<br>
+
+<b>Location:</b> Brazil
+
+<br>
+
+<b>Status:</b> Building_
+
+<br><br>
+
+<code>THINK → BUILD → TEST → IMPROVE → REPEAT</code>
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="./assets/profile.png" width="260" alt="Daniel Gallina">
+<img
+src="./assets/profile.png"
+width="250"
+alt="Daniel Gallina">
 
 </td>
 
 </tr>
 </table>
 
-<br>
+<br><br>
 
-<!-- ======================== TECH STACK ======================== -->
+<!-- ==========================================================
+                         TECH STACK
+=========================================================== -->
 
 <h2>⚡ Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,js,ts,html,css,react,nodejs,vite&theme=dark" alt="Development Technologies">
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,ubuntu,git,github,vscode,postman&theme=dark" alt="Infrastructure and Tools">
+Technologies and tools I use to build, deploy and manage systems.
 </p>
 
 <br>
 
-<code>DEVELOPMENT</code>
-&nbsp;•&nbsp;
-<code>INFRASTRUCTURE</code>
-&nbsp;•&nbsp;
-<code>AUTOMATION</code>
-&nbsp;•&nbsp;
-<code>DATABASES</code>
+<h4>DEVELOPMENT</h4>
 
-<br><br><br>
+<img
+src="https://skillicons.dev/icons?i=c,js,ts,html,css,react,nodejs,vite&theme=dark"
+alt="Development Stack">
 
-<!-- ======================== ANALYTICS ======================== -->
+<br><br>
+
+<h4>DATABASES • INFRASTRUCTURE • TOOLS</h4>
+
+<img
+src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,ubuntu,git,github,vscode,postman&theme=dark"
+alt="Infrastructure Stack">
+
+<br><br>
+
+<p>
+<code>C</code>
+&nbsp;
+<code>JAVASCRIPT</code>
+&nbsp;
+<code>TYPESCRIPT</code>
+&nbsp;
+<code>REACT</code>
+&nbsp;
+<code>NODE.JS</code>
+&nbsp;
+<code>POSTGRESQL</code>
+&nbsp;
+<code>DOCKER</code>
+&nbsp;
+<code>LINUX</code>
+</p>
+
+<br><br>
+
+<!-- ==========================================================
+                       GITHUB ANALYTICS
+=========================================================== -->
 
 <h2>📊 GitHub Analytics</h2>
 
+<p>
+Development activity and contribution history.
+</p>
+
+<br>
+
 <img
-width="100%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielmgallina-prog&theme=github_dark"
+width="100%"
 alt="Daniel Gallina GitHub Analytics">
 
 <br><br><br>
 
-<!-- ======================== PROJECTS ======================== -->
+<!-- ==========================================================
+                       FEATURED PROJECTS
+=========================================================== -->
 
 <h2>🚀 Featured Projects</h2>
 
+<p>
+Some of the projects and technologies I'm currently working with.
+</p>
+
+<br>
+
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -108,24 +169,24 @@ alt="Daniel Gallina GitHub Analytics">
 <h3>📅 EventsCalendar</h3>
 
 <p>
-Web-based event management platform designed to replace
-manual workflows with a centralized digital system.
+Web platform for centralized event management,
+scheduling and operational workflows.
 </p>
 
-<p>
-<strong>STACK</strong>
-</p>
+<br>
 
-<p>
+<b>STACK</b>
+
+<br><br>
+
 <code>React</code>
 <code>Node.js</code>
 <code>PostgreSQL</code>
 <code>Docker</code>
-</p>
 
-<p>
-<strong>STATUS:</strong> 🟢 ACTIVE
-</p>
+<br><br>
+
+<b>● ACTIVE</b>
 
 </td>
 
@@ -134,31 +195,31 @@ manual workflows with a centralized digital system.
 <h3>⚙️ Automation & APIs</h3>
 
 <p>
-APIs and automation solutions focused on system integration,
-operational efficiency and process optimization.
+APIs and automation solutions focused on
+system integration and process optimization.
 </p>
 
-<p>
-<strong>STACK</strong>
-</p>
+<br>
 
-<p>
+<b>STACK</b>
+
+<br><br>
+
 <code>JavaScript</code>
 <code>Node.js</code>
 <code>REST API</code>
 <code>SQL</code>
-</p>
 
-<p>
-<strong>STATUS:</strong> 🔵 BUILDING
-</p>
+<br><br>
+
+<b>● BUILDING</b>
 
 </td>
 
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -166,24 +227,24 @@ operational efficiency and process optimization.
 <h3>🖥️ Infrastructure Lab</h3>
 
 <p>
-Projects and experiments involving servers, monitoring,
-networking, virtualization and infrastructure automation.
+Infrastructure projects involving servers,
+monitoring, networking and virtualization.
 </p>
 
-<p>
-<strong>TECHNOLOGIES</strong>
-</p>
+<br>
 
-<p>
+<b>TECHNOLOGIES</b>
+
+<br><br>
+
 <code>Linux</code>
 <code>Docker</code>
 <code>Windows</code>
 <code>Networking</code>
-</p>
 
-<p>
-<strong>STATUS:</strong> 🟢 ACTIVE
-</p>
+<br><br>
+
+<b>● ACTIVE</b>
 
 </td>
 
@@ -196,20 +257,20 @@ Programming projects focused on algorithms,
 software engineering and continuous learning.
 </p>
 
-<p>
-<strong>TECHNOLOGIES</strong>
-</p>
+<br>
 
-<p>
+<b>TECHNOLOGIES</b>
+
+<br><br>
+
 <code>C</code>
 <code>JavaScript</code>
 <code>Git</code>
 <code>GitHub</code>
-</p>
 
-<p>
-<strong>STATUS:</strong> 🟡 LEARNING
-</p>
+<br><br>
+
+<b>● LEARNING</b>
 
 </td>
 
@@ -218,60 +279,51 @@ software engineering and continuous learning.
 
 <br><br>
 
-<!-- ======================== CURRENT WORK ======================== -->
+<!-- ==========================================================
+                          FOCUS
+=========================================================== -->
 
 <div align="center">
 
-<h2>🚧 Currently Building</h2>
-
-<p>
-Building real-world solutions combining
-<b>software development, infrastructure and automation.</b>
-</p>
+<h2>🎯 What I'm Working On</h2>
 
 <br>
 
-<img src="https://img.shields.io/badge/CODE-BUILDING-1294F3?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-ACTIVE-0D1117?style=for-the-badge&logo=linux&logoColor=1294F3">
-
-<img src="https://img.shields.io/badge/AUTOMATION-LEARNING-0D1117?style=for-the-badge&logo=githubactions&logoColor=1294F3">
-
-<br><br><br>
-
-<!-- ======================== SYSTEM ======================== -->
-
-<h2>🖥️ System Status</h2>
-
-<p>
-
 <img
-src="https://img.shields.io/badge/STATUS-ONLINE-1294F3?style=for-the-badge"
-alt="Status Online">
-
-<img
-src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-0D1117?style=for-the-badge"
+src="https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-1294F3?style=for-the-badge"
 alt="Software Development">
 
-</p>
-
-<p>
+&nbsp;
 
 <img
-src="https://img.shields.io/badge/INTEREST-SOFTWARE%20%2B%20INFRASTRUCTURE-0D1117?style=for-the-badge"
-alt="Software and Infrastructure">
-
-<img
-src="https://img.shields.io/badge/OS-WINDOWS%20%2F%20LINUX-0D1117?style=for-the-badge"
-alt="Windows and Linux">
-
-</p>
+src="https://img.shields.io/badge/INFRASTRUCTURE-SYSTEMS-0D1117?style=for-the-badge&logo=linux&logoColor=1294F3"
+alt="Infrastructure">
 
 <br><br>
 
-<!-- ======================== CONNECT ======================== -->
+<img
+src="https://img.shields.io/badge/AUTOMATION-APIs-0D1117?style=for-the-badge&logo=githubactions&logoColor=1294F3"
+alt="Automation">
+
+&nbsp;
+
+<img
+src="https://img.shields.io/badge/DATABASES-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1294F3"
+alt="Databases">
+
+<br><br><br>
+
+<!-- ==========================================================
+                          CONNECT
+=========================================================== -->
 
 <h2>🌐 Connect With Me</h2>
+
+<p>
+Let's connect and build something.
+</p>
+
+<br>
 
 <a href="https://github.com/danielmgallina-prog">
 <img
@@ -295,25 +347,31 @@ src="https://img.shields.io/badge/EMAIL-1294F3?style=for-the-badge&logo=gmail&lo
 alt="Email">
 </a>
 
-<br><br><br>
+<br><br><br><br>
 
-<!-- ======================== FOOTER ======================== -->
+<!-- ==========================================================
+                           FOOTER
+=========================================================== -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=1294F3"
+width="100%"
+alt="Divider">
+
+<br><br>
 
 <code>&lt; CODE • BUILD • LEARN • REPEAT /&gt;</code>
 
 <br><br>
 
-<strong>● SYSTEM STATUS: ONLINE</strong>
-
-<br><br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=1294F3&section=footer"
-width="100%"
-alt="Footer">
+<b>● SYSTEM ONLINE</b>
 
 <br>
 
-<sub>Daniel Gallina • Software Development • Infrastructure • Technology</sub>
+<sub>
+Daniel Gallina • Software Development • Infrastructure • Technology
+</sub>
+
+<br><br>
 
 </div>
